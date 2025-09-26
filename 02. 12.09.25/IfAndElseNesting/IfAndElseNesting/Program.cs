@@ -6,7 +6,7 @@ namespace IfAndElseNesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("If and else nesting");
+            Console.WriteLine("If and else nesting1");
 
             //muutuja nimega y on andmetüüp double e komakohaga arv ja väärtus on 9
             double y = 100;
