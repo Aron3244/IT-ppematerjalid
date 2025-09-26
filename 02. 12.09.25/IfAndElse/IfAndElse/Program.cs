@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sisesta enda nimi");
+            Console.WriteLine("Sisestage kaks nime");
 
             //siin on muutuja nimega name ja selle sisse saab lisada väärtust
             string name = Console.ReadLine();
