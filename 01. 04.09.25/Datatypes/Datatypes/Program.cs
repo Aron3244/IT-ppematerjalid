@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Tere, World!");
 
             //bool andmetüüp toetab ainult true ja false
             bool check = true;
