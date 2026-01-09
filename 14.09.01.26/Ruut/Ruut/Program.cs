@@ -19,7 +19,7 @@
                 Console.WriteLine();
             }
             //kui suurus on sisestatud, siis kuvab meile ka ümbermõõdu ja pindala
-
+            //\njätab ühe rea vahel
             Console.WriteLine("\n");
             int squarearea = size * size;
             int squareAround = size * 4;
